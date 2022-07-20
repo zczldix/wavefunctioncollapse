@@ -1,0 +1,44 @@
+# Alias OBJ Model File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# File units = meters
+
+mtllib Street.mtl
+
+g Mesh1 Group1 Model
+
+usemtl FrontColor
+v -1 -0.98 1
+vt 0 0
+vn 0 1 -0
+v 1 -0.98 1
+vt 78.7402 0
+v 1 -0.98 -1
+vt 78.7402 78.7402
+v -1 -0.98 -1
+vt 0 78.7402
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+
+v -1 -1 1
+vn 0 0 1
+v 1 -1 1
+vt 78.7402 0.787402
+vt 0 0.787402
+f 5/1/2 6/2/2 2/5/2 1/6/2 
+
+vt -78.7402 0
+vn 0 -1 -0
+v -1 -1 -1
+v 1 -1 -1
+vt -78.7402 78.7402
+f 6/7/3 5/1/3 7/4/3 8/8/3 
+
+vn -1 0 -0
+vt -78.7402 0.787402
+f 7/7/4 5/1/4 1/6/4 4/9/4 
+
+vn 0 0 -1
+f 8/7/5 7/1/5 4/6/5 3/9/5 
+
+vn 1 0 -0
+f 6/1/6 8/2/6 3/5/6 2/6/6 
+
